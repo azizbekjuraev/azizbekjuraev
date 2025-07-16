@@ -29,13 +29,6 @@
 | [Task Tracker Backend](https://github.com/azizbekjuraev/task-tracker-backend)         | REST API for task-tracking app                   | Spring Boot, Java  | •                                                |
 | [Masjid App](https://github.com/azizbekjuraev/masjid_app)           | Quran + prayer times mobile app                  | Flutter (Dart)     | •                                                |
 
----
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizbekjuraev&show_icons=true&theme=radical)
-
----
-
 ## 📫 How to Reach Me
 - ✉️ Email: abdulazizj050@gmail.com  
 - 💼 LinkedIn: [azizbek-juraev](https://www.linkedin.com/in/azizbek-juraev-656b95253)  
