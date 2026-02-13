@@ -1,7 +1,7 @@
 <!-- 👋 Welcome! -->
 # Hi there, I’m Azizbek 👋
 
-**Frontend Engineer** with 2+ years of hands-on experience crafting high-performance React & Next.js apps. I’m passionate about accessible UIs, clean code, and turning complex problems into delightful user experiences.
+**Fullstack Engineer** with 2+ years of hands-on experience crafting high-performance React & Next.js apps. I’m passionate about accessible UIs, clean code, and turning complex problems into delightful user experiences.
 
 ---
 
