@@ -1,41 +1,105 @@
 <!-- 👋 Welcome! -->
 # Hi there, I’m Azizbek 👋
 
-**Fullstack Engineer** with 2+ years of hands-on experience crafting high-performance React & Next.js apps. I’m passionate about accessible UIs, clean code, and turning complex problems into delightful user experiences.
+### Frontend Engineer | React • Next.js • TypeScript
+
+I build scalable, high-performance web applications with a strong focus on clean architecture, accessibility, and user experience.
+
+With 2+ years of hands-on experience, I specialize in modern React and Next.js ecosystems, crafting responsive interfaces that are fast, maintainable, and production-ready. I also bring backend awareness (Node.js / Java / Spring Boot) to collaborate effectively in full-stack environments.
 
 ---
 
-## 🔭 What I’m Working On
-- **KEFA Dashboard Redesign** – modernizing our React/Next.js admin panel with role-based access and TanStack Query.  
+## 🔭 Currently Working On
 
-## 💡 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?logo=typescript)  
-![React](https://img.shields.io/badge/-React-333333?logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-333333?logo=nextdotjs)  
-![Node.js](https://img.shields.io/badge/-Node.js-333333?logo=nodedotjs)  
-![Java](https://img.shields.io/badge/-Java-333333?logo=java)  
+**KEFA Dashboard Redesign**  
+Redesigning and optimizing a production React/Next.js admin dashboard:
+- Implementing role-based access control  
+- Introducing TanStack Query for scalable data fetching  
+- Improving performance and maintainability  
+- Enhancing UI consistency and user workflows  
+
+---
+
+## 🧠 Engineering Focus
+
+- Component-driven architecture  
+- Performance optimization  
+- API integration & state management  
+- Scalable frontend structure  
+- Responsive & accessible UI design  
+- CI/CD & cloud deployment basics  
+
+---
+
+## 💻 Tech Stack
+
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?logo=nextdotjs)
+
+**Backend & DevOps Awareness**  
+![Node.js](https://img.shields.io/badge/-Node.js-333333?logo=nodedotjs)
+![Java](https://img.shields.io/badge/-Java-333333?logo=java)
 ![Dart](https://img.shields.io/badge/-Dart-333333?logo=dart)
 
 ---
 
 ## 🚀 Featured Projects
-| Project                                     | Description                                      | Tech               | Demo / Link                                      |
-|---------------------------------------------|--------------------------------------------------|--------------------|--------------------------------------------------|
-| [Bankist](https://github.com/azizbekjuraev/Bankist)                  | Personal finance manager with real-time charts    | React, Node.js     | Live demo / Screenshots                          |
-| [Bankist Website](https://github.com/azizbekjuraev/bankist-website)  | Marketing site for Bankist app                   | Next.js, Tailwind  | [bankist.app](https://bankist.app)               |
-| [lexical-react](https://github.com/azizbekjuraev/lexical-react)     | React bindings for Meta’s Lexical rich-text lib   | TypeScript         | •                                                |
-| [Employee Management System](https://github.com/azizbekjuraev/employee-management-system) | CRUD dashboard in Java backend + React frontend  | Java, React        | •                                                |
-| [Task Tracker Backend](https://github.com/azizbekjuraev/task-tracker-backend)         | REST API for task-tracking app                   | Spring Boot, Java  | •                                                |
-| [Masjid App](https://github.com/azizbekjuraev/masjid_app)           | Quran + prayer times mobile app                  | Flutter (Dart)     | •                                                |
 
-## 📫 How to Reach Me
-- ✉️ Email: abdulazizj050@gmail.com  
-- 💼 LinkedIn: [azizbek-juraev](https://www.linkedin.com/in/azizbek-juraev-656b95253)  
-- 🐦 Telegram: [@azizbek_juraev1](https://t.me/azizbek_juraev1)  
-- 🦊 GitLab: [azizbekjuraev](https://gitlab.com/azizbekjuraev)  
+### 💳 Bankist – Personal Finance Manager  
+Full-stack finance dashboard with real-time charts and transaction tracking.  
+**Tech:** React, Node.js  
+- Dynamic data visualization  
+- REST API integration  
+- Clean component-based architecture  
+
+🔗 Repository: https://github.com/azizbekjuraev/Bankist  
 
 ---
 
-> “Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live.”  
-> – John F. Woods
+### 🌐 Bankist Website  
+Marketing website built with Next.js and Tailwind.  
+**Tech:** Next.js, TailwindCSS  
+- Responsive UI  
+- Optimized performance  
+- Modern landing page architecture  
+
+🔗 Live: https://bankist.app  
+🔗 Repository: https://github.com/azizbekjuraev/bankist-website  
+
+---
+
+### ✍ lexical-react  
+Custom React bindings for Meta’s Lexical rich-text editor.  
+**Tech:** TypeScript  
+- Type-safe integration  
+- Modular design  
+- Clean API abstraction  
+
+🔗 Repository: https://github.com/azizbekjuraev/lexical-react  
+
+---
+
+### 🧩 Employee Management System  
+Full-stack CRUD dashboard with Java backend and React frontend.  
+**Tech:** Java (Spring Boot), React  
+- REST API design  
+- Authentication & role handling  
+- Structured frontend architecture  
+
+🔗 Repository: https://github.com/azizbekjuraev/employee-management-system  
+
+---
+
+## 📫 Let’s Connect
+
+- ✉️ Email: abdulazizj050@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/azizbek-juraev-656b95253  
+- 🐦 Telegram: https://t.me/azizbek_juraev1  
+- 🦊 GitLab: https://gitlab.com/azizbekjuraev  
+
+---
+
+⭐ Always learning. Always building. Focused on writing clean, scalable code.
