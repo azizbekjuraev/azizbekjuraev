@@ -72,13 +72,6 @@ A real point-of-sale platform **live in restaurants across Namangan, Uzbekistan 
 
 ---
 
-## 📊 GitHub at a glance
-
-![Azizbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbekjuraev&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekjuraev&layout=compact&hide_border=true)
-
----
-
 ## 📫 Let's talk
 
 I'm open to frontend and full-stack roles — especially teams that care about product quality, infrastructure ownership, and engineering craft.
